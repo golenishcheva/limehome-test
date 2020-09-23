@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/limehome-test/precache-manifest.151ac775d57c4e986b1928d314cf24cc.js"
+  "/limehome-test/precache-manifest.f6cc14772421da9808cc2aae726e5980.js"
 );
 
 self.addEventListener('message', (event) => {
