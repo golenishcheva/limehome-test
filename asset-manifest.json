@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/limehome-test/static/css/main.34fd4dca.chunk.css",
+    "main.js": "/limehome-test/static/js/main.601ef269.chunk.js",
+    "main.js.map": "/limehome-test/static/js/main.601ef269.chunk.js.map",
+    "runtime-main.js": "/limehome-test/static/js/runtime-main.5f1c4cf9.js",
+    "runtime-main.js.map": "/limehome-test/static/js/runtime-main.5f1c4cf9.js.map",
+    "static/js/2.63380174.chunk.js": "/limehome-test/static/js/2.63380174.chunk.js",
+    "static/js/2.63380174.chunk.js.map": "/limehome-test/static/js/2.63380174.chunk.js.map",
+    "index.html": "/limehome-test/index.html",
+    "precache-manifest.151ac775d57c4e986b1928d314cf24cc.js": "/limehome-test/precache-manifest.151ac775d57c4e986b1928d314cf24cc.js",
+    "service-worker.js": "/limehome-test/service-worker.js",
+    "static/css/main.34fd4dca.chunk.css.map": "/limehome-test/static/css/main.34fd4dca.chunk.css.map",
+    "static/js/2.63380174.chunk.js.LICENSE.txt": "/limehome-test/static/js/2.63380174.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f1c4cf9.js",
+    "static/js/2.63380174.chunk.js",
+    "static/css/main.34fd4dca.chunk.css",
+    "static/js/main.601ef269.chunk.js"
+  ]
+}
